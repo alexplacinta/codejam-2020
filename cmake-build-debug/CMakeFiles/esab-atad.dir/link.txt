@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/esab-atad.dir/qual/p4-esab-atad.cpp.o  -o esab-atad 

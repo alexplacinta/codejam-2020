@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/robot.dir/robot.cpp.o  -o robot 

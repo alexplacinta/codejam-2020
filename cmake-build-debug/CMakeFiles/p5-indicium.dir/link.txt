@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/p5-indicium.dir/qual/p5-indicium.cpp.o  -o p5-indicium 

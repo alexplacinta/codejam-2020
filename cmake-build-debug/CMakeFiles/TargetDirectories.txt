@@ -1,7 +1,0 @@
-/home/alex/Workspace/codejam/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/alex/Workspace/codejam/cmake-build-debug/CMakeFiles/p2-nesting-depth.dir
-/home/alex/Workspace/codejam/cmake-build-debug/CMakeFiles/p5-indicium.dir
-/home/alex/Workspace/codejam/cmake-build-debug/CMakeFiles/p3-parenting-partnering.dir
-/home/alex/Workspace/codejam/cmake-build-debug/CMakeFiles/p1-vestigium.dir
-/home/alex/Workspace/codejam/cmake-build-debug/CMakeFiles/p4-esab-atad.dir
-/home/alex/Workspace/codejam/cmake-build-debug/CMakeFiles/edit_cache.dir
