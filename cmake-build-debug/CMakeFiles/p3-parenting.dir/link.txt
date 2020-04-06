@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/p3-parenting.dir/qual/p3-parenting-partnering.cpp.o  -o p3-parenting 
