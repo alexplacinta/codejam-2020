@@ -77,8 +77,8 @@ class SubprocessThread(threading.Thread):
             sys.stderr.flush()
 
 
-judge_args = ['python', 'qual/p4-esab-atad-TEST.py', '1']
-sol_args = ['./cmake-build-debug/p4-esab-atad']
+judge_args = ['python', 'p4-esab-atad-TEST.py', '1']
+sol_args = ['./../cmake-build-debug/p4-esab-atad']
 
 t_sol = SubprocessThread(sol_args, stderr_prefix="  sol: ")
 t_judge = SubprocessThread(
